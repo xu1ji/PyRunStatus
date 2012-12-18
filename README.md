@@ -16,11 +16,11 @@ CopyRight:You are free to copy and use ,and welcome2 mail me if you have any que
 
  UseMethod
 ========================
- 1.import   sys.path.append("--your path--")  
- 2.init     tDbg = PyRunStatus.xuRunTime()
- 3.setSum   tDbg.setSum(1000)
- 4.goStart  gDbg.goStart()
- 5.returnTime gDbg.returnTime() or gDbg.returnTime(isSec=False)
- 6.addOne    gDbg.addOne()  or gDbg.addOne(4)
+ 1.import   sys.path.append("--your path--").
+ 2.init     tDbg = PyRunStatus.xuRunTime().
+ 3.setSum   tDbg.setSum(1000).
+ 4.goStart  gDbg.goStart().
+ 5.returnTime gDbg.returnTime() or gDbg.returnTime(isSec=False). 
+ 6.addOne    gDbg.addOne()  or gDbg.addOne(4).
 
 
